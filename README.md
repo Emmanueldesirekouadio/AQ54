@@ -96,15 +96,19 @@ Assurez-vous d'être dans le dossier "scripts".
 ```bash
 executer "Data_processing.py" 
 ```
-bash
-
-python Data_processing.py
-Pour plus de confirmation, ouvrez MongoDB pour voir vos bases de données et collections.
-Ouvrez Superset et amusez-vous à créer votre tableau de bord avec les données obtenues.
 
 
-Documentation
-Python Downloads
-Superset Installation with Docker
-Docker Desktop Installation
-Superset Creating Charts and Dashboards
+
+
+Documentation:
+Python Downloads: 
+https://www.python.org/
+
+Superset Installation with Docker:
+https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/
+
+Docker Desktop Installation:
+https://docs.docker.com/engine/install/
+
+Superset Creating Charts and Dashboards:
+https://superset.apache.org/docs/creating-charts-dashboards/creating-your-first-dashboard
