@@ -61,8 +61,7 @@ pip install pandas
 
 Usage
 Exemple d'utilisation des modules installés dans votre code :
-```bash 
-python              
+```bash             
 
 from pymongo import MongoClient
 ```
