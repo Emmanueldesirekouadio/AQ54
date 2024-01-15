@@ -1,0 +1,16 @@
+# Utilisez l'image Python officielle
+FROM python:3.8-slim-buster
+
+# Créez le répertoire de travail
+WORKDIR /app
+
+# Copiez les dépendances de l'application
+COPY requirements.txt .
+
+# Installez les dépendances
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copiez le contenu de l'application
+COPY . .
+
+
