@@ -59,7 +59,7 @@ pip install pymongo
 pip install pandas
 ```
 
-Usage
+## Usage
 Exemple d'utilisation des modules installés dans votre code :
 ```bash             
 
@@ -83,10 +83,11 @@ df = pd.DataFrame(data)
 ```bash 
 df['timestamp'] = pd.to_datetime(df['timestamp'])
 ```
-Démarrage
+## Démarrage
 
 Clonez le projet et enregistrez-le dans un dossier sur votre machine.
 Ouvrez un terminal.
+
 Déplacez-vous à la racine du projet. 
 ```bash
 cd AQ54/scripts
@@ -100,7 +101,7 @@ executer "Data_processing.py"
 
 
 
-Documentation:
+## Documentation:
 Python Downloads: 
 https://www.python.org/
 
